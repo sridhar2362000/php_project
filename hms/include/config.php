@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','localhost');
+define('DB_SERVER','hmsdb.cx8qgkoc6txa.us-east-1.rds.amazonaws.com');
 define('DB_USER','root');
 define('DB_PASS' ,'');
 define('DB_NAME', 'hms');
